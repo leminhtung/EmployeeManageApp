@@ -1,0 +1,13 @@
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\EmployeeManage.Unittest.deps.json
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\EmployeeManage.Unittest.runtimeconfig.json
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\EmployeeManage.Unittest.runtimeconfig.dev.json
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\EmployeeManage.Unittest.dll
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\EmployeeManage.Unittest.pdb
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\obj\Debug\netcoreapp2.1\EmployeeManage.Unittest.csproj.CoreCompileInputs.cache
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\obj\Debug\netcoreapp2.1\EmployeeManage.Unittest.AssemblyInfoInputs.cache
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\obj\Debug\netcoreapp2.1\EmployeeManage.Unittest.AssemblyInfo.cs
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\obj\Debug\netcoreapp2.1\EmployeeManage.Unittest.dll
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\obj\Debug\netcoreapp2.1\EmployeeManage.Unittest.pdb
