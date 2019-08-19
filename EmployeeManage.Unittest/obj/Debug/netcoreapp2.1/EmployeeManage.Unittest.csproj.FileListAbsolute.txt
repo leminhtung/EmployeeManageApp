@@ -6,6 +6,7 @@ C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Deb
 C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\EmployeeManage.Unittest.runtimeconfig.dev.json
 C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\EmployeeManage.Unittest.dll
 C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\bin\Debug\netcoreapp2.1\EmployeeManage.Unittest.pdb
+C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\obj\Debug\netcoreapp2.1\EmployeeManage.Unittest.csprojAssemblyReference.cache
 C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\obj\Debug\netcoreapp2.1\EmployeeManage.Unittest.csproj.CoreCompileInputs.cache
 C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\obj\Debug\netcoreapp2.1\EmployeeManage.Unittest.AssemblyInfoInputs.cache
 C:\Users\tunglm2\source\repos\EmployeeManage_App\EmployeeManage.Unittest\obj\Debug\netcoreapp2.1\EmployeeManage.Unittest.AssemblyInfo.cs
